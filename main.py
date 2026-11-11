@@ -1,5 +1,4 @@
 import pygame
-from pygame.mixer_music import play
 
 import constants
 from logger import log_state
